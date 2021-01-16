@@ -7,7 +7,7 @@ namespace Methods
         static void Main(string[] args)
         {
             // Dont repeat yourself - kendini tekrar etme
-            //learning hell - öğrenme cehennemi
+            
             Product product1 = new Product() {
                 Id = 1, 
                 Name = "Elma", 
