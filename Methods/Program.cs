@@ -6,8 +6,7 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-            // Dont repeat yourself - kendini tekrar etme
-            
+            // Dont repeat yourself             
             Product product1 = new Product() {
                 Id = 1, 
                 Name = "Elma", 
