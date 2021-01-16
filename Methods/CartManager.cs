@@ -6,7 +6,7 @@ namespace Methods
 {
     class CartManager
     {
-        //naming convention - adlandırma kuralları
+        //naming convention
         //syntax
         public void Add(Product product)
         {
